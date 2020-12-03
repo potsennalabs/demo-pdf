@@ -1307,6 +1307,11 @@
   dependencies:
     mkdirp "^1.0.4"
 
+"@pdftron/webviewer@^7.1.2":
+  version "7.1.2"
+  resolved "https://registry.yarnpkg.com/@pdftron/webviewer/-/webviewer-7.1.2.tgz#ad675d5f3b02de8cfa947ea1e8013db4c4cd0fd9"
+  integrity sha512-w170I8+FFOR3ue1Gpi6Dba4xpTJ/ccV+FGghNoHvXOXhyPMr2tRKSvlxIQPMCyIqYY3BfKSh+SMtcRElqNgT7Q==
+
 "@pmmmwh/react-refresh-webpack-plugin@0.4.2":
   version "0.4.2"
   resolved "https://registry.yarnpkg.com/@pmmmwh/react-refresh-webpack-plugin/-/react-refresh-webpack-plugin-0.4.2.tgz#1f9741e0bde9790a0e13272082ed7272a083620d"
@@ -8781,6 +8786,11 @@ psl@^1.1.28:
   version "1.8.0"
   resolved "https://registry.yarnpkg.com/psl/-/psl-1.8.0.tgz#9326f8bcfb013adcc005fdff056acce020e51c24"
   integrity sha512-RIdOzyoavK+hA18OGGWDqUTsCLhtA7IcZ/6NCs4fFJaHBDab+pDDmDIByWFRQJq2Cd7r1OoQxBGKOaztq+hjIQ==
+
+pspdfkit@^2020.6.1:
+  version "2020.6.1"
+  resolved "https://registry.yarnpkg.com/pspdfkit/-/pspdfkit-2020.6.1.tgz#41af3d74e0351b45bb63a527b445a7e6d6d6905c"
+  integrity sha512-eVpxlYo+rXxXtJJ83re4JIl37/QDQKCijMsJdYJn84TI0PQ1k3nHd3Z10YmU2/wgRNGJDio389+8nZt4RvWYuQ==
 
 public-encrypt@^4.0.0:
   version "4.0.3"
